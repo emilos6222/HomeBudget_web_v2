@@ -253,6 +253,18 @@ footer
     padding-bottom: 40px;
 }
 
+.copyrightLink:link, .copyrightLink:visited
+{
+    color: white;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.copyrightLink:hover
+{
+    color: #929292;
+}
+
 .icon-footer
 {
     margin-left: 2rem;
