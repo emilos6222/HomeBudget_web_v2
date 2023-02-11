@@ -1,0 +1,22 @@
+[class^="icon-"], [class*=" icon-"] {
+  font-family: 'fontello';
+  font-style: normal;
+  font-weight: normal;
+
+  /* fix buttons height */
+  line-height: 1em;
+
+  /* you can be more comfortable with increased icons size */
+  /* font-size: 120%; */
+}
+
+.icon-gmail { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe800;&nbsp;'); }
+.icon-basket { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe801;&nbsp;'); }
+.icon-cog-alt { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe802;&nbsp;'); }
+.icon-wallet { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe803;&nbsp;'); }
+.icon-right-bold { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe804;&nbsp;'); }
+.icon-money { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0d6;&nbsp;'); }
+.icon-balance-scale { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf24e;&nbsp;'); }
+.icon-github-squared { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf300;&nbsp;'); }
+.icon-facebook-squared { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf308;&nbsp;'); }
+.icon-linkedin-squared { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf30c;&nbsp;'); }
